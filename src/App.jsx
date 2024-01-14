@@ -5,7 +5,7 @@ import TabSection from "./components/TabsSection";
 import TeachingSection from "./components/TeachingSection";
 import IntroSection from "./components/introSection";
 import FeedbackSection from "./components/FeedbackSection";
-import EffectSection from "./components/EffectsAction";
+import EffectSection from "./components/EffectSection";
 
 function App() {
   const [tab, setTab] = useState("effect");
